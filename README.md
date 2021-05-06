@@ -1,9 +1,9 @@
-# latex
+# Latex Repo
 For CVs and stuff
 
-# For Ubuntu and Mate:
+For Ubuntu and Mate:
 sudo add-apt-repository ppa:jonathonf/texlive
 sudo apt update && sudo apt install texlive-full
 
-# VS Code Extension:
+VS Code Extension:
 LaTeX Workshop
