@@ -9,6 +9,7 @@ VS Code Extension:
 LaTeX Workshop
 
 ## Setup LuaTeX and Biber in settings.json
+```
  "latex-workshop.latex.recipes": [
         {
             "name": "lualatex->biber->lualatex",
@@ -39,3 +40,4 @@ LaTeX Workshop
             ]
         }
     ]
+ ```
